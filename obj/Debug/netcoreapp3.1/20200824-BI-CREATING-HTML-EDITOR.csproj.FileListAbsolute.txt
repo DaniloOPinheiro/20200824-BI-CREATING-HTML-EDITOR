@@ -1,0 +1,13 @@
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/obj/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.csprojAssemblyReference.cache
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/obj/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.AssemblyInfoInputs.cache
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/obj/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.AssemblyInfo.cs
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/obj/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.csproj.CoreCompileInputs.cache
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/bin/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/bin/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.deps.json
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/bin/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.runtimeconfig.json
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/bin/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.runtimeconfig.dev.json
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/bin/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.dll
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/bin/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.pdb
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/obj/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.dll
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/obj/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.pdb
+/home/daniloopinheiro/VSCodeProjects/DemoDesafios/20200824-BI-CREATING-HTML-EDITOR/obj/Debug/netcoreapp3.1/20200824-BI-CREATING-HTML-EDITOR.genruntimeconfig.cache
